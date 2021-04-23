@@ -4,6 +4,15 @@
   
   print("please dont report me to the irs, i can do your taxes for you")          
 </div>
+<div align="left">
+  if you want to contact me its      
+</div>
+<div align="right">
+  probably for a death threat so go ahead and       
+</div>
+<div align="dont">
+  dont    
+</div>
 
 <!--
 **Typeist/Typeist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
